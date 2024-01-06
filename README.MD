@@ -14,7 +14,7 @@ cd Unlock_Android_ADB/
 ```
 - Give the script execution permission: 
 ```bash
-chmod +x crack-adb.sh
+chmod +x crack-adb-unlock.sh
 ```
 - Connect the smartphone to a USB cable
 - Leave the smartphone in recovery mode and execute the command: 
